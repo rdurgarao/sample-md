@@ -13,7 +13,7 @@
   2. Controllers 
   3. Views
   
-  ## Installation
+  ## Install
   
   1. npm install
   2. ng serve 
